@@ -7,9 +7,11 @@ The purpose of this analysis is to use Python, Pandas functions and methods, and
 
 ## Results
 June Results:
+
 <img width="317" alt="Screen Shot 2021-11-01 at 1 08 19 AM" src="https://user-images.githubusercontent.com/88624677/139624533-50e29e43-be1e-4139-acf5-d60352fe134c.png">
 
 December Results:
+
 <img width="367" alt="Screen Shot 2021-11-01 at 1 08 07 AM" src="https://user-images.githubusercontent.com/88624677/139624554-5242083b-13bc-476e-b633-c2037d00e7fe.png">
 
 * The average temperature for June and December are 75 and 71, respectively, which is not a significant difference.
